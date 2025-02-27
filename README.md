@@ -7,3 +7,4 @@ This project presents an interactive Excel dashboard for analyzing and visualizi
 - **Easy Navigation:** A user-friendly interface designed for smooth data analysis and interpretation.
 ## Tools Used
 Microsoft Excel
+![Interactive Dashboard for Online Store Sales Analysis (Excel)](https://github.com/user-attachments/assets/f8732f8e-df6e-4564-bc12-8643a1c9db20)
