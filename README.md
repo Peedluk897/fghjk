@@ -1,4 +1,4 @@
-# Interactive Excel Dashboard for Online Store Sales
+# Dynamic Sales Dashboard for Online Store (Excel)
 ## Overview
 This project presents an interactive Excel dashboard for analyzing and visualizing online store sales data. It offers valuable insights into key metrics, enabling stakeholders to track business performance and trends effectively.
 ## Features
